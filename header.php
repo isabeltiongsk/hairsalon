@@ -13,23 +13,21 @@
 
        <nav class="navbar navbar-default">
   <div class="container-fluid">
-    <div class="navbar-header">
-
-    </div>
+    
     <ul class="nav navbar-nav">
-      <li><a href="../index.php">Schedule</a></li>
-      <li class="active" class="dropdown" >
-        <a class="dropdown-toggle"  data-toggle="dropdown" href="#">Management
+      <li class="active"><a href="index.php">Schedule</a></li>
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Management
         <span class="caret"></span></a>
-        <ul class="dropdown-menu" >
-          <li><a href="../staff/staff.php">Staff overview</a></li>
-          <li><a href="../staff/create.php">Add staff</a></li>
-          <li><a href="product.php">Product overview</a></li>
-          <li><a href="create.php">Add product</a></li>
+        <ul class="dropdown-menu">
+          <li><a href="staff/staff.php">Staff overview</a></li>
+          <li><a href="staff/create.php">Add staff</a></li>
+          <li><a href="product/product.php">Product overview</a></li>
+          <li><a href="product/create.php">Add product</a></li>
         </ul>
       </li>
-      <li><a href="../payment/payment.php">Payment</a></li>
-      <li><a href="../report/report.php">Report</a></li>
+      <li><a href="payment/payment.php">Payment</a></li>
+      <li><a href="report/report.php">Report</a></li>
     </ul>
   </div>
 </nav> 
