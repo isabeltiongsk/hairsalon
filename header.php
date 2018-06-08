@@ -13,23 +13,21 @@
 
        <nav class="navbar navbar-default">
   <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="#">G2 by Govin</a>
-    </div>
+    
     <ul class="nav navbar-nav">
-      <li class="active"><a href="index.php">Home</a></li>
+      <li><a href="../index.php">Schedule</a></li>
       <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Management
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a href="staff.php">Staff overview</a></li>
-          <li><a href="staff/create.php">Add staff</a></li>
-          <li><a href="product.php">Product overview</a></li>
-          <li><a href="product/create.php">Add product</a></li>
+          <li><a href="../staff/staff.php">Staff overview</a></li>
+          <li><a href="../staff/create.php">Add staff</a></li>
+          <li><a href="../product/product.php">Product overview</a></li>
+          <li><a href="../product/create.php">Add product</a></li>
         </ul>
       </li>
-      <li><a href="#">Payment</a></li>
-      <li><a href="#">Report</a></li>
+      <li  class="active"><a href="payment.php">Payment</a></li>
+      <li><a href="../report/report.php">Report</a></li>
     </ul>
   </div>
 </nav> 
