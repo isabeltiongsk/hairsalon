@@ -15,9 +15,7 @@
   <div class="container-fluid">
     
     <ul class="nav navbar-nav">
-
-      <li class="active"><a href="index.php">Schedule</a></li>
-
+      <li><a href="../index.php">Schedule</a></li>
       <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Management
         <span class="caret"></span></a>
@@ -28,10 +26,8 @@
           <li><a href="product/create.php">Add product</a></li>
         </ul>
       </li>
-
-      <li><a href="payment/payment.php">Payment</a></li>
-      <li><a href="report/report.php">Report</a></li>
-
+      <li><a href="payment.php">Payment</a></li>
+      <li  class="active"><a href="report.php">Report</a></li>
     </ul>
   </div>
 </nav> 
