@@ -18,13 +18,13 @@ For further detailed about this application, please refer to **FYP_report.pdf** 
 * Sales report<br>
 For user manual of the features, please refer to **page 30** in the [Project Report](https://github.com/isabeltiongsk/hairsalon/blob/master/FYP_report.pdf). <br>
 ## How to install
-*Download all codes from master branch
+* Download all codes from master branch
 * Extract files to local if you downloaded the zip file
 * Connect your server
 * Login into your PhpMyAdmin and added three new databases named 'calendar' 'hairsalondb' 'registration'
 * Open the SQL folder, input the sql files into each database (for example calendar.sql > calendar database)
 * Run index.php <br>
-<br>
+
 ## Extension Not Working?
  
 ### Error messages showing database is not connected
