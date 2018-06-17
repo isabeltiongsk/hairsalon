@@ -11,7 +11,7 @@
 
 </nav>
 
-       <nav class="navbar navbar-default">
+       <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     
     <ul class="nav navbar-nav">
@@ -26,8 +26,11 @@
           <li><a href="product/create.php">Add product</a></li>
         </ul>
       </li>
-      <li><a href="payment.php">Payment</a></li>
+      <li><a href="../payment/payment.php">Payment</a></li>
       <li  class="active"><a href="report.php">Report</a></li>
+    </ul>
+      <ul class="nav navbar-nav navbar-right">
+          <li><a href="../registration/login.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
     </ul>
   </div>
 </nav> 
