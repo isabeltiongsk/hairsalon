@@ -16,7 +16,7 @@ For further detailed about this application, please refer to **FYP_report.pdf** 
 * Staff CRUD
 * Sales CRUD (seperated into product & service)
 * Sales report<br>
-For user manual for features, please refer to **page 30** in the [Project Report](https://github.com/isabeltiongsk/hairsalon/blob/master/FYP_report.pdf). <br>
+For user manual of the features, please refer to **page 30** in the [Project Report](https://github.com/isabeltiongsk/hairsalon/blob/master/FYP_report.pdf). <br>
 ## How to install
 *Download all codes from master branch
 * Extract files to local if you downloaded the zip file
