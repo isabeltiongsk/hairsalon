@@ -71,7 +71,7 @@ $events = $req->fetchAll();
 
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h1>Staff Time Schedule</h1>
+                <h1>Appointment Table</h1>
                 <p class="lead">for G2 by Govin</p>
                 <div id="calendar" class="col-centered">
                 </div>
