@@ -15,11 +15,8 @@ For further detailed about this application, please refer to **FYP_report.pdf** 
 * Payment systen
 * Staff CRUD
 * Sales CRUD (seperated into product & service)
-* Sales report
-<br>
+* Sales report<br>
 
-
-<br>
 ## How to install
 *Download all codes from master branch
 * Extract files to local if you downloaded the zip file
