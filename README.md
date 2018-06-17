@@ -17,8 +17,7 @@ For further detailed about this application, please refer to **FYP_report.pdf** 
 * Sales CRUD (seperated into product & service)
 * Sales report
 <br>
-For details of using the features, please refer to page 30 of the 
-[Project Report](https://github.com/isabeltiongsk/hairsalon/blob/master/FYP_report.pdf).<br>
+
 
 <br>
 ## How to install
@@ -31,7 +30,6 @@ For details of using the features, please refer to page 30 of the
 <br>
 ## Extension Not Working?
  
-
 ### Error messages showing database is not connected
 * Check spelling correction of your database name, it should be ‘calendar’, ‘registration’ and ‘hairsalondb’, make sure that you insert the correct SQL files into the databases.
 * Check database user account information, this software is using the default user account, which is:<br>
