@@ -4,7 +4,7 @@ This is an assignment for Coventry University Final Year Project<br>
 by Isabel Tiong. <br>
 ### Definition
 This is a **web-based management appplication** built for a hairsalon.<br>
-For further detailed about this application, please refer to **FYP_report.pdf** <br>
+For further detailed about this application, please refer to [**FYP_report.pdf**](https://github.com/isabeltiongsk/hairsalon/blob/master/FYP_report.pdf) <br>
 ### Screenshots of application
 ![alt text](https://github.com/isabeltiongsk/hairsalon/blob/master/demo/welcome.JPG) <br>
 ![alt text](https://github.com/isabeltiongsk/hairsalon/blob/master/demo/payment2.JPG) <br>
